@@ -1,0 +1,15 @@
+# Unity (gerado ao abrir o projeto)
+TrilhaDaBolota/[Ll]ibrary/
+TrilhaDaBolota/[Tt]emp/
+TrilhaDaBolota/[Oo]bj/
+TrilhaDaBolota/[Bb]uild/
+TrilhaDaBolota/[Ll]ogs/
+TrilhaDaBolota/[Uu]ser[Ss]ettings/
+TrilhaDaBolota/*.csproj
+TrilhaDaBolota/*.sln
+# App compilado e ZIP (grandes; gerados pelo build)
+Entrega/
+# Logs do Unity
+Verificacao/*.log
+.DS_Store
+__pycache__/
