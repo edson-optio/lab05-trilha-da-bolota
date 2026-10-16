@@ -13,3 +13,5 @@ Entrega/
 Verificacao/*.log
 .DS_Store
 __pycache__/
+TrilhaDaBolota/.vscode/
+TrilhaDaBolota/*.slnx
